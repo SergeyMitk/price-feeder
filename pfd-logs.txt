@@ -1,0 +1,116 @@
+12:55PM INF skipping until next voting period current_vote_period=939858 module=oracle previous_vote_period=939858 vote_period=5
+12:55PM DBG starting oracle tick module=oracle
+12:55PM DBG executing oracle tick module=oracle
+12:55PM ERR failed to get ticker prices from provider error="failed to parse gate volume (9429.94643858625773195023) for UMEE_USDT: value '9429.94643858625773195023' exceeds max precision by -2 decimal places: max precision 18" module=oracle
+12:55PM INF skipping until next voting period current_vote_period=939858 module=oracle previous_vote_period=939858 vote_period=5
+12:55PM DBG starting oracle tick module=oracle
+12:55PM DBG executing oracle tick module=oracle
+12:55PM ERR failed to get ticker prices from provider error="failed to parse gate volume (9429.94643858625773195023) for UMEE_USDT: value '9429.94643858625773195023' exceeds max precision by -2 decimal places: max precision 18" module=oracle
+12:55PM INF skipping until next voting period current_vote_period=939858 module=oracle previous_vote_period=939858 vote_period=5
+12:55PM DBG sending websocket message module=oracle msg={"pong":1673261742320} provider=huobi
+12:55PM DBG starting oracle tick module=oracle
+12:55PM DBG executing oracle tick module=oracle
+12:55PM ERR failed to get ticker prices from provider error="failed to parse gate volume (9429.94643858625773195023) for UMEE_USDT: value '9429.94643858625773195023' exceeds max precision by -2 decimal places: max precision 18" module=oracle
+12:55PM INF skipping until next voting period current_vote_period=939858 module=oracle previous_vote_period=939858 vote_period=5
+12:55PM DBG starting oracle tick module=oracle
+12:55PM DBG executing oracle tick module=oracle
+12:55PM ERR failed to get ticker prices from provider error="failed to parse gate volume (9429.94643858625773195023) for UMEE_USDT: value '9429.94643858625773195023' exceeds max precision by -2 decimal places: max precision 18" module=oracle
+12:55PM INF skipping until next voting period current_vote_period=939858 module=oracle previous_vote_period=939858 vote_period=5
+12:55PM DBG starting oracle tick module=oracle
+12:55PM DBG executing oracle tick module=oracle
+12:55PM ERR failed to get ticker prices from provider error="failed to parse gate volume (9429.94643858625773195023) for UMEE_USDT: value '9429.94643858625773195023' exceeds max precision by -2 decimal places: max precision 18" module=oracle
+12:55PM INF skipping until next voting period current_vote_period=939858 module=oracle previous_vote_period=939858 vote_period=5
+12:55PM DBG starting oracle tick module=oracle
+12:55PM DBG executing oracle tick module=oracle
+12:55PM ERR failed to get ticker prices from provider error="failed to parse gate volume (9429.94643858625773195023) for UMEE_USDT: value '9429.94643858625773195023' exceeds max precision by -2 decimal places: max precision 18" module=oracle
+12:55PM INF skipping until next voting period current_vote_period=939858 module=oracle previous_vote_period=939858 vote_period=5
+12:55PM DBG sending websocket message module=oracle msg={"pong":1673261747428} provider=huobi
+12:55PM DBG starting oracle tick module=oracle
+12:55PM DBG executing oracle tick module=oracle
+12:55PM ERR failed to get ticker prices from provider error="failed to parse gate volume (9429.94643858625773195023) for UMEE_USDT: value '9429.94643858625773195023' exceeds max precision by -2 decimal places: max precision 18" module=oracle
+12:55PM INF skipping until next voting period current_vote_period=939858 module=oracle previous_vote_period=939858 vote_period=5
+12:55PM DBG starting oracle tick module=oracle
+12:55PM DBG executing oracle tick module=oracle
+12:55PM ERR failed to get ticker prices from provider error="failed to parse gate volume (9429.94643858625773195023) for UMEE_USDT: value '9429.94643858625773195023' exceeds max precision by -2 decimal places: max precision 18" module=oracle
+12:55PM INF broadcasting vote exchange_rates=ATOM:11.393933675586228235,DAI:0.999687108417398235,ETH:1321.128589375986454229,UMEE:0.006843374102298485,USDC:0.999876249949876592,USDT:0.999808881811488521,WBTC:17266.307911645840251575 feeder=umee1nuh3h59fsj8hvgqr778q7knjag3qtaq2h6v2cp module=oracle validator=umeevaloper1mkv4myppz2w0d3nr2dh9fv5kcwaaqnzfvnm6qf
+12:55PM DBG sending websocket message module=oracle msg={"pong":1673261752494} provider=huobi
+12:55PM INF successfully broadcasted tx module=oracle_client tx_code=0 tx_hash=798F6596B674F06BD394DD8484C6CFF330FFEA794558249B3F5B2C676CF62B93 tx_height=0
+12:55PM DBG starting oracle tick module=oracle
+12:55PM DBG executing oracle tick module=oracle
+12:55PM ERR failed to get ticker prices from provider error="failed to parse gate volume (9429.94643858625773195023) for UMEE_USDT: value '9429.94643858625773195023' exceeds max precision by -2 decimal places: max precision 18" module=oracle
+12:55PM INF broadcasting pre-vote feeder=umee1nuh3h59fsj8hvgqr778q7knjag3qtaq2h6v2cp hash=2a9c2e5917f5f45b28d63d15bb8ffbccd556679f module=oracle validator=umeevaloper1mkv4myppz2w0d3nr2dh9fv5kcwaaqnzfvnm6qf
+12:55PM DBG sending websocket message module=oracle msg={"pong":1673261757587} provider=huobi
+12:56PM INF successfully broadcasted tx module=oracle_client tx_code=0 tx_hash=0F9DB0ADF0C84091F441191CD579C130C1B19953B94BA33D9CA5677948471942 tx_height=0
+12:56PM DBG sending websocket message module=oracle msg={"id":1673261760243,"method":"public/respond-heartbeat"} provider=crypto
+12:56PM DBG starting oracle tick module=oracle
+12:56PM DBG executing oracle tick module=oracle
+12:56PM ERR failed to get ticker prices from provider error="failed to parse gate volume (9429.94643858625773195023) for UMEE_USDT: value '9429.94643858625773195023' exceeds max precision by -2 decimal places: max precision 18" module=oracle
+12:56PM INF skipping until next voting period current_vote_period=939859 module=oracle previous_vote_period=939859 vote_period=5
+12:56PM DBG starting oracle tick module=oracle
+12:56PM DBG executing oracle tick module=oracle
+12:56PM ERR failed to get ticker prices from provider error="failed to parse gate volume (9429.94643858625773195023) for UMEE_USDT: value '9429.94643858625773195023' exceeds max precision by -2 decimal places: max precision 18" module=oracle
+12:56PM INF skipping until next voting period current_vote_period=939859 module=oracle previous_vote_period=939859 vote_period=5
+12:56PM DBG sending websocket message module=oracle msg={"pong":1673261762647} provider=huobi
+12:56PM DBG starting oracle tick module=oracle
+12:56PM DBG executing oracle tick module=oracle
+12:56PM ERR failed to get ticker prices from provider error="failed to parse gate volume (9429.94643858625773195023) for UMEE_USDT: value '9429.94643858625773195023' exceeds max precision by -2 decimal places: max precision 18" module=oracle
+12:56PM INF skipping until next voting period current_vote_period=939859 module=oracle previous_vote_period=939859 vote_period=5
+12:56PM DBG starting oracle tick module=oracle
+12:56PM DBG executing oracle tick module=oracle
+12:56PM ERR failed to get ticker prices from provider error="failed to parse gate volume (9429.94643858625773195023) for UMEE_USDT: value '9429.94643858625773195023' exceeds max precision by -2 decimal places: max precision 18" module=oracle
+12:56PM INF skipping until next voting period current_vote_period=939859 module=oracle previous_vote_period=939859 vote_period=5
+12:56PM DBG starting oracle tick module=oracle
+12:56PM DBG executing oracle tick module=oracle
+12:56PM ERR failed to get ticker prices from provider error="failed to parse gate volume (9429.94643858625773195023) for UMEE_USDT: value '9429.94643858625773195023' exceeds max precision by -2 decimal places: max precision 18" module=oracle
+12:56PM INF skipping until next voting period current_vote_period=939859 module=oracle previous_vote_period=939859 vote_period=5
+12:56PM DBG starting oracle tick module=oracle
+12:56PM DBG executing oracle tick module=oracle
+12:56PM ERR failed to get ticker prices from provider error="failed to parse gate volume (9429.94643858625773195023) for UMEE_USDT: value '9429.94643858625773195023' exceeds max precision by -2 decimal places: max precision 18" module=oracle
+12:56PM INF skipping until next voting period current_vote_period=939859 module=oracle previous_vote_period=939859 vote_period=5
+12:56PM DBG starting oracle tick module=oracle
+12:56PM DBG executing oracle tick module=oracle
+12:56PM ERR failed to get ticker prices from provider error="failed to parse gate volume (9429.94643858625773195023) for UMEE_USDT: value '9429.94643858625773195023' exceeds max precision by -2 decimal places: max precision 18" module=oracle
+12:56PM INF skipping until next voting period current_vote_period=939859 module=oracle previous_vote_period=939859 vote_period=5
+12:56PM DBG sending websocket message module=oracle msg={"pong":1673261767731} provider=huobi
+12:56PM DBG starting oracle tick module=oracle
+12:56PM DBG executing oracle tick module=oracle
+12:56PM ERR failed to get ticker prices from provider error="failed to parse gate volume (9429.94643858625773195023) for UMEE_USDT: value '9429.94643858625773195023' exceeds max precision by -2 decimal places: max precision 18" module=oracle
+12:56PM INF skipping until next voting period current_vote_period=939859 module=oracle previous_vote_period=939859 vote_period=5
+12:56PM DBG starting oracle tick module=oracle
+12:56PM DBG executing oracle tick module=oracle
+12:56PM ERR failed to get ticker prices from provider error="failed to parse gate volume (9429.94643858625773195023) for UMEE_USDT: value '9429.94643858625773195023' exceeds max precision by -2 decimal places: max precision 18" module=oracle
+12:56PM INF skipping until next voting period current_vote_period=939859 module=oracle previous_vote_period=939859 vote_period=5
+12:56PM DBG starting oracle tick module=oracle
+12:56PM DBG executing oracle tick module=oracle
+12:56PM ERR failed to get ticker prices from provider error="failed to parse gate volume (9429.94643858625773195023) for UMEE_USDT: value '9429.94643858625773195023' exceeds max precision by -2 decimal places: max precision 18" module=oracle
+12:56PM INF skipping until next voting period current_vote_period=939859 module=oracle previous_vote_period=939859 vote_period=5
+12:56PM DBG starting oracle tick module=oracle
+12:56PM DBG executing oracle tick module=oracle
+12:56PM ERR failed to get ticker prices from provider error="failed to parse gate volume (9429.94643858625773195023) for UMEE_USDT: value '9429.94643858625773195023' exceeds max precision by -2 decimal places: max precision 18" module=oracle
+12:56PM INF skipping until next voting period current_vote_period=939859 module=oracle previous_vote_period=939859 vote_period=5
+12:56PM DBG starting oracle tick module=oracle
+12:56PM DBG executing oracle tick module=oracle
+12:56PM ERR failed to get ticker prices from provider error="failed to parse gate volume (9429.94643858625773195023) for UMEE_USDT: value '9429.94643858625773195023' exceeds max precision by -2 decimal places: max precision 18" module=oracle
+12:56PM INF skipping until next voting period current_vote_period=939859 module=oracle previous_vote_period=939859 vote_period=5
+12:56PM DBG sending websocket message module=oracle msg={"pong":1673261772811} provider=huobi
+12:56PM DBG starting oracle tick module=oracle
+12:56PM DBG executing oracle tick module=oracle
+12:56PM ERR failed to get ticker prices from provider error="failed to parse gate volume (9429.94643858625773195023) for UMEE_USDT: value '9429.94643858625773195023' exceeds max precision by -2 decimal places: max precision 18" module=oracle
+12:56PM INF skipping until next voting period current_vote_period=939859 module=oracle previous_vote_period=939859 vote_period=5
+12:56PM DBG starting oracle tick module=oracle
+12:56PM DBG executing oracle tick module=oracle
+12:56PM ERR failed to get ticker prices from provider error="failed to parse gate volume (9429.94643858625773195023) for UMEE_USDT: value '9429.94643858625773195023' exceeds max precision by -2 decimal places: max precision 18" module=oracle
+12:56PM INF skipping until next voting period current_vote_period=939859 module=oracle previous_vote_period=939859 vote_period=5
+12:56PM DBG starting oracle tick module=oracle
+12:56PM DBG executing oracle tick module=oracle
+12:56PM ERR failed to get ticker prices from provider error="failed to parse gate volume (9429.94643858625773195023) for UMEE_USDT: value '9429.94643858625773195023' exceeds max precision by -2 decimal places: max precision 18" module=oracle
+12:56PM INF skipping until next voting period current_vote_period=939859 module=oracle previous_vote_period=939859 vote_period=5
+12:56PM DBG starting oracle tick module=oracle
+12:56PM DBG executing oracle tick module=oracle
+12:56PM ERR failed to get ticker prices from provider error="failed to parse gate volume (9429.94643858625773195023) for UMEE_USDT: value '9429.94643858625773195023' exceeds max precision by -2 decimal places: max precision 18" module=oracle
+12:56PM INF skipping until next voting period current_vote_period=939859 module=oracle previous_vote_period=939859 vote_period=5
+12:56PM DBG starting oracle tick module=oracle
+12:56PM DBG executing oracle tick module=oracle
+12:56PM ERR failed to get ticker prices from provider error="failed to parse gate volume (9429.94643858625773195023) for UMEE_USDT: value '9429.94643858625773195023' exceeds max precision by -2 decimal places: max precision 18" module=oracle
+12:56PM INF broadcasting vote exchange_rates=ATOM:11.394052931499482931,DAI:0.999692834773489382,ETH:1321.137399235618477289,UMEE:0.006843170041072956,USDC:0.999876742143343659,USDT:0.999808745123556423,WBTC:17266.474196828053533281 feeder=umee1nuh3h59fsj8hvgqr778q7knjag3qtaq2h6v2cp module=oracle validator=umeevaloper1mkv4myppz2w0d3nr2dh9fv5kcwaaqnzfvnm6qf
+12:56PM DBG sending websocket message module=oracle msg={"pong":1673261777881} provider=huobi
